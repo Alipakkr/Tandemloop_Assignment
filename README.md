@@ -3,12 +3,15 @@ This repository contains the design solutions for the Tandemloop Technologies sc
 
 📁 Folder Structure
 First_Screening_Test-Alipa/
+
 ├── Desktop.png
+
 ├── Mobile.png
+
 └── README.md
 
 ✅ Task Overview
-Recreated 3 web sections (Section 1, Section 2, Section 3)
+Recreated any following from  3 web sections (Section 1, Section 2, Section 3)
 
 Designed both desktop (1920x1080px) and mobile layouts
 
@@ -27,7 +30,7 @@ Maintained visual consistency and modern UI principles
 Used auto-layout and constraints in Figma for responsive behavior
 Focused on clean typography, spacing, and accessible UI patterns
 
-📱 Figma Link : https://www.figma.com/design/3VBfAAzXMp7EHwUy01goR3/Assignement-TANDEMLOOP?node-id=12-1264&t=RpJ7u7MJq4sCo1QI-0
+📱 Figma Link Section 2 : https://www.figma.com/design/3VBfAAzXMp7EHwUy01goR3/Assignement-TANDEMLOOP?node-id=12-1264&t=RpJ7u7MJq4sCo1QI-0
 👉 View Figma Prototype
 
 
