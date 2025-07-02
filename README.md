@@ -20,7 +20,8 @@ Ensured responsive UI and visual consistency
 
 Exported all designs in PNG format
 
-🛠 ** Design Process Followed**
+🛠 **Design Process Followed**
+
 Understanding the Task:
 I carefully analyzed the given sections to understand structure, layout, typography, and responsiveness.
 
@@ -41,6 +42,7 @@ Feather Icons & Material Icons – for iconography
 GitHub – for hosting and version control
 
 🧩 **Design Decisions**
+
 Maintained visual consistency and modern UI principles
 
 Used auto-layout and constraints in Figma for responsive behavior
@@ -50,12 +52,13 @@ Focused on clean typography, spacing, and accessible UI patterns
 
 
 👉 **View Figma Prototype**
+
 📱 Figma Link Section 2 : https://www.figma.com/design/3VBfAAzXMp7EHwUy01goR3/Assignement-TANDEMLOOP?node-id=12-1264&t=RpJ7u7MJq4sCo1QI-0
 
 🌐 GitHub Repository
 
-👉 View Repository
-
+👉 View Repository 
+Github Link : https://github.com/Alipakkr/Tandemloop_Assignment/tree/main
 
 ⏱ Deadline
 
