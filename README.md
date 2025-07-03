@@ -47,6 +47,7 @@ Maintained visual consistency and modern UI principles
 
 Used auto-layout and constraints in Figma for responsive behavior
 
+
 Focused on clean typography, spacing, and accessible UI patterns
 
 
